@@ -1,0 +1,9 @@
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\bin\Debug\netstandard2.0\UtilityPack.deps.json
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\bin\Debug\netstandard2.0\UtilityPack.dll
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\bin\Debug\netstandard2.0\UtilityPack.pdb
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\netstandard2.0\UtilityPack.csprojAssemblyReference.cache
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\netstandard2.0\UtilityPack.csproj.CoreCompileInputs.cache
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\netstandard2.0\UtilityPack.AssemblyInfoInputs.cache
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\netstandard2.0\UtilityPack.AssemblyInfo.cs
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\netstandard2.0\UtilityPack.dll
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\netstandard2.0\UtilityPack.pdb

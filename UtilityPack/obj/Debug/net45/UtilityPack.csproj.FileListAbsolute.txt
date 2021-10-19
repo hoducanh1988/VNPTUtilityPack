@@ -1,0 +1,76 @@
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\bin\Debug\net45\UtilityPack.dll
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\bin\Debug\net45\UtilityPack.pdb
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CoreCompileInputs.cache
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfoInputs.cache
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\bin\Debug\net45\NationalInstruments.VisaNS.dll
+C:\Users\ANHHO\source\repos\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CoreCompileInputs.cache
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfoInputs.cache
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\bin\Debug\net45\UtilityPack.dll
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\bin\Debug\net45\UtilityPack.pdb
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\bin\Debug\net45\Interop.ADOX.dll
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADOX.dll
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.ResolveComReference.cache
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\bin\Debug\net45\Interop.ADODB.dll
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADODB.dll
+E:\_____C#\net45\UtilityPack.dll
+E:\_____C#\net45\UtilityPack.pdb
+C:\Users\ANHHO\source\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADODB.dll
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADOX.dll
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.ResolveComReference.cache
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CoreCompileInputs.cache
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfoInputs.cache
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+D:\BACKUP_C_16.02.2019-----\repos\98.Utility\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADODB.dll
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADOX.dll
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.ResolveComReference.cache
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CoreCompileInputs.cache
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+D:\BACKUP_C_16.02.2019-----\repos -----------------------\98.Utility -------------\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADODB.dll
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADOX.dll
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.ResolveComReference.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfoInputs.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADODB.dll
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADOX.dll
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.ResolveComReference.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfoInputs.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADODB.dll
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\Interop.ADOX.dll
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.ResolveComReference.cache
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfoInputs.cache
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.AssemblyInfo.cs
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.dll
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.pdb
+D:\_____C#\net45\UtilityPack.dll
+D:\_____C#\net45\UtilityPack.pdb
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CopyComplete
+C:\Users\AnhHD\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\_Git_________________________________\UtilityPack\UtilityPack\UtilityPack\obj\Debug\net45\UtilityPack.csproj.CoreCompileInputs.cache
